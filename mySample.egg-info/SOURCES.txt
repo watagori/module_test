@@ -1,0 +1,12 @@
+README.md
+setup.py
+model/__init__.py
+model/modelChild.py
+model/modelParent.py
+mySample.egg-info/PKG-INFO
+mySample.egg-info/SOURCES.txt
+mySample.egg-info/dependency_links.txt
+mySample.egg-info/top_level.txt
+view/__init__.py
+view/viewChild.py
+view/viewParent.py
