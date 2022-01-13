@@ -1,0 +1,1 @@
+-e git+https://github.com/watagori/module_test#egg=mySample-0.0.1
